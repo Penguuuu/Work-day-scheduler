@@ -16,4 +16,4 @@ Enter any schedule to the calender and it will store your data.
 
 https://penguuuu.github.io/Work-day-scheduler/
 
-<img src="./assets/Schueduler.png" width="500" height="500">
+<img src="./Assets/Schueduler.png" width="500" height="500">
